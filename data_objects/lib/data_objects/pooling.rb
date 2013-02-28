@@ -126,7 +126,7 @@ module DataObjects
             end
 
             def self.pool_size
-              8
+              50
             end
           end
         end
